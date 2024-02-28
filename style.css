@@ -1,0 +1,51 @@
+/* ADD YOUR CUSTOM CSS TO THIS FILE BELOW */
+
+
+.col-md-2, .col-md-10 { background-color: #e4e1da;
+						}
+
+.col-md-2 { padding-block: 25px;
+			}
+
+.col-md-10 { text-align: center;
+			padding: 15px; 
+			}
+
+h1 { color: #9933ff;
+	font-family: "Bree Serif", serif;
+  	font-weight: bold;
+  	font-style: normal;
+  	font-size: 4em;
+	}
+
+body {background-image: url(swirls.jpg);
+	font-family: "Source Serif 4", serif;
+  	font-weight: 600;
+  	font-style: normal;
+  	color: #9933ff;
+  	font-size: 1em;
+
+		}
+h2 { color: white;
+	font-family: "PT Sans Caption", sans-serif;
+  	font-weight: 550;
+  	font-style: normal;
+  	background-color: #bf80ff;
+  	padding: 5px;
+  	font-size: 2em;
+	 }
+
+a:link, a:visited {
+	color: #bf80ff;
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+	color: #9933ff;
+}
+
+a:active{
+	color: #bf80ff;
+	text-decoration: none;
+}
